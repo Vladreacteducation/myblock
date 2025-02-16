@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: My Block
- * Plugin URI: https://geniuscourses.com
- * Description: Gutenberg Block
- * Author: Alex Sochirca
- * Author URI: https://geniuscourses.com
+ * Plugin Name: Dynamic Posts
+ * Plugin URI: #
+ * Description: Gutenberg Dynamic Block
+ * Author: Vlad Leaf
+ * Author URI: #
  */
 
  function genius_myblock_init(){
